@@ -1,0 +1,11 @@
+{
+  "id": "opencode-ai-assistant",
+  "name": "OpenCode AI Assistant",
+  "version": "2.0.0",
+  "main": "main.js",
+  "icon": "icon.png",
+  "author": "You",
+  "description": "AI coding assistant powered by OpenCode — complete, debug, explain, and generate code using OpenCode's HTTP API.",
+  "minVersionCode": 290,
+  "price": 0
+}
